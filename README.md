@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm SANCHIT VARSHNEY</h1>
-<h3 align="center">A Pre-Final Year at GLA University , Mathura</h3>
+<h3 align="center">A Final Year at GLA University , Mathura</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanchit-varshney&label=Profile%20views&color=0e75b6&style=flat" alt="sanchit-varshney" /> </p>
 
